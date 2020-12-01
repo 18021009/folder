@@ -3,3 +3,7 @@ hi you
 
 // B say hello
 Wao it's nice to see you here A
+
+//A say st
+
+me too it's a long time from the last time we meet
